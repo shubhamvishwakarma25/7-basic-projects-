@@ -1,2 +1,2 @@
-# 20-basic-projects-
+# 20-basic-projects
 my first repo
