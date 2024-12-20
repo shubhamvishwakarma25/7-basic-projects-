@@ -1,4 +1,4 @@
-# 20-basic-projects 
+# 7-basic-projects 
 author-shubham vishwakarma
 
 
